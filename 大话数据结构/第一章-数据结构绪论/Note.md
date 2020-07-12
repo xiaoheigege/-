@@ -42,7 +42,7 @@
 
 * 集合结构：集合结构中的元素数据除了同属于一个集合外，它们之间没有其他关系。
 
-  <img src="C:\Users\86185\Desktop\u=1634275952,4100464031&amp;fm=26&amp;gp=0.jpg" alt="u=1634275952,4100464031&amp;fm=26&amp;gp=0" style="zoom:33%;" />
+  <img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1634275952,4100464031&fm=26&gp=0.jpg" style="zoom:33%;" />
 
 * 线性结构：线性结构中的数据元素之间是一对一的关系。
 
