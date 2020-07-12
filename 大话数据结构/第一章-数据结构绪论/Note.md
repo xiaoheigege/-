@@ -41,6 +41,6 @@
 逻辑结构:是指数据对象中数据元素之间的互相关系。
 
 * 集合结构：集合结构中的元素数据除了同属于一个集合外，它们之间没有其他关系。
-
+![](https://github.com/xiaoheigege/Play-With-Data-Structure/raw/master/图片/集合结构.jpg)
 * 线性结构：线性结构中的数据元素之间是一对一的关系。
 
